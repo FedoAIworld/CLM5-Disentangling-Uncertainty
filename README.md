@@ -1,2 +1,2 @@
-# Distentangling Sources of Uncertainty in CLM5 Model Predictions
+# Disentangling Uncertainty in CLM5   
 We assessed the sources of uncertainty in CLM5 model predictions of water, energy, and carbon fluxes in European measurement sites.
