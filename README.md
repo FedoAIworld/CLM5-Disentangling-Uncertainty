@@ -5,7 +5,7 @@ We assessed the sources of uncertainty in CLM5 model predictions of water, energ
 Datasets can be access from: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14204547.svg)](https://doi.org/10.5281/zenodo.14204547)
 
 ## Citation
-Cite study: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14204280.svg)](https://doi.org/10.5281/zenodo.14204280)
+Cite code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14204280.svg)](https://doi.org/10.5281/zenodo.14204280)
 
 ## Contact
 For questions, feedback, or datasets, feel free to contact me:
