@@ -3,6 +3,8 @@
 # Disentangling Uncertainty in CLM5   
 We assessed the sources of uncertainty in CLM5 model predictions of water, energy, and carbon fluxes in European measurement sites.
 
+To understand the scripts, read the documentation in clm5 pipeline folder.
+
 ## Datasets
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14204547.svg)](https://doi.org/10.5281/zenodo.14204547)
 
