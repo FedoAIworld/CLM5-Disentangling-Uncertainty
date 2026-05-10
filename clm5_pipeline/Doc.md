@@ -4,7 +4,7 @@ A Python pipeline for evaluating CLM5 ensemble simulations against ICOS eddy-cov
 
 This code accompanies the manuscript:
 
-> **[Disentangling Sources of Uncertainty in CLM5 Model Predictions: Water, Energy, and Carbon Fluxes at European Observation Sites]** — [Fernand B. Eloundou], *[JGR-Biogeosciences]*, [Year]. DOI: [doi]
+> **Disentangling Sources of Uncertainty in CLM5 Model Predictions: Water, Energy, and Carbon Fluxes at European Observation Sites** — [Fernand B. Eloundou], *[JGR-Biogeosciences]*, [Year]. DOI: [doi]
 
 ---
 
